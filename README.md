@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sai Preethi 👋
 
-<!--
-**preethi-3107/preethi-3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering (Data Science) Student | 2027 Batch
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer interested in building practical applications and improving my programming skills. I enjoy learning new technologies and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Programming:** Java, Python, C
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Database:** MySQL, SQL
+- **Core Concepts:** Data Structures, Object-Oriented Programming, DBMS
+
+### 🚀 Projects
+- **Inventory Management System** – A project focused on managing inventory and product-related information.
+- **InvestEase** – A beginner-friendly investment learning and planning application.
+- **Student Grade Calculator** – A Java-based application for calculating student grades.
+
+### 🎯 Career Interests
+- Software Development
+- Java Development
+- SQL and Database Management
+- Web Application Development
+
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/talacheeru-sai-preethi-137a92420)
+- [GitHub](https://github.com/preethi-3107)
+
+I'm continuously learning, building projects, and looking for opportunities to grow as a software developer.
