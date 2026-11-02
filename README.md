@@ -12,6 +12,8 @@ I'm an aspiring Software Developer interested in building practical applications
 
 ### 🚀 Projects
 - **Inventory Management System** – A project focused on managing inventory and product-related information.
+   [Inventory Management System](https://github.com/preethi-3107/Inventory-Management-System)
+
 - **InvestEase** – A beginner-friendly investment learning and planning application.
 - **Student Grade Calculator** – A Java-based application for calculating student grades.
 
